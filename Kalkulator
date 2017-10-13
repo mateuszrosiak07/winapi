@@ -1,0 +1,8 @@
+# Kalkulator  
+# Kalkulator wykonujący obliczenia czasu przebytego dystansu  w bieganiu/wioślarstwie
+# # wymagania 
+1 . Podawanie szacowanego czasu na 1 km 
+2 . Sumowanie czasu wszytskich przebytych dystansów
+3 . Oblicznie szacowanego czasu przebytych dystansów
+4 . Szacowanie czasu na 10 km w odniesieniu do czasów z poprzednich treningów
+5 . Średnia czasów z ostatnich odbytych treningów 
